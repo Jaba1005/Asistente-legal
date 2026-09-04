@@ -64,12 +64,14 @@ GENAI_API_KEY=tu_api_key_aqui
 3. Escribe `salir`, `exit` o `quit` para terminar la conversación.
 
 ```markdown
-![Salida - Asistente Legal/Normativo](imagenes/asistente_salida.png)
+![Salida - Asistente Legal/Normativo]
 ```
 `system_instruction`.)*
 
 ```markdown
-![Salida - Rechazo de pregunta fuera de tema](imagenes/asistente_rechazo.png)
+![Salida - Rechazo de pregunta fuera de tema]
 ```
+<img width="1458" height="974" alt="image" src="https://github.com/user-attachments/assets/cb2c5ea0-5ff0-4e96-831a-8d181a7c71ad" />
+
 <img width="1463" height="994" alt="image" src="https://github.com/user-attachments/assets/ade8d3da-211a-4a35-bb12-e2809b104c85" />
 
